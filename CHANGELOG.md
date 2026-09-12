@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - `Args`/`Returns`/`Yields` sections for `create_log_config`, `setup_destination`, `convert_type`, `create_entry`, and `patch_anchors`, whose docstrings previously lacked them.
-  [#TBD](https://github.com/hynek/doc2dash/pull/TBD)
+  [#304](https://github.com/hynek/doc2dash/pull/304)
 
 ### Removed
 
